@@ -1,0 +1,4 @@
+This is some simple test-text!
+The purpose of this text is to provide a body of text to perform unit testing.
+This text will contain numbers such as 1984 and alpha-numeric values such as A1b2c3.
+Will there be special-characters as well?? Yep, such as ampersand @, under_scores, -hyphens—, 'and' "different" ”types” “of“ ‘quotes‘!
